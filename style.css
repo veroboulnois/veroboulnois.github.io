@@ -1,0 +1,88 @@
+header
+{
+  background : url("https://www.avastmobileenterprise.com/hubfs/Remotuin-2016/Image/Form-Bg.png?t=1480609795260img");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 410px;
+  padding: 20px;
+}
+h1
+{
+  text-align: center;
+  font-family: impact;
+}
+.adresse
+{
+  text-align:center;
+  font-style: oblique;
+}
+#coordonnees, #menu
+{
+  display: flex;
+  justify-content: space-around;
+}
+.telephone
+{
+  text-align: center;
+  font-style: oblique;
+}
+.email
+{
+  text-align: center;
+  font-style: oblique;
+}
+.photo
+{
+  display: flex;
+  justify-content: center;
+  padding: inherit;
+}
+nav
+{
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  height: 50px;
+  border: 1px solid;
+  align-items: center;
+  background-color: grey;
+}
+.competences, .formation, .experience, .interets, #contenuFormation, #contenuExperience
+{
+  text-align: inherit;
+  display: flex;
+  justify-content: space-around;
+}
+#contenuCompetences
+{
+  text-align: inherit;
+  display: flex;
+  justify-content: space-around;
+  background-color: #6AF6AF;
+}
+h2
+{
+  text-align: center;
+}
+.contenuSavoirEtre, #centresInterets
+{
+  text-align: center;
+  background-color: #86FE35;
+  padding: 20px;
+}
+li{
+  list-style: none;
+}
+#contenuFormation
+{
+  background-color: #27BA5A;
+}
+#contenuExperience
+{
+  background-color: #B2D97E;
+}
+i
+{
+color: blue;
+}
