@@ -1,0 +1,31 @@
+body
+{
+  color: black;
+  font-family: impact;
+  background: url("img/parcours.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  height: 100%;
+  padding-top: 50px;
+}
+p
+{
+  width: 100%;
+  font-weight: bold;
+  text-align: justify;
+}
+.bouton{
+float: left;
+margin: auto;
+padding-top: 10px;
+width: 5%;
+height: 15px;
+}
+h1
+{
+  text-align: center;
+}
+i
+{
+  color: #DA400A;
+}
