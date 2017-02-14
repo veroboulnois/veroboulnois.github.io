@@ -14,13 +14,15 @@ p
   font-weight: bold;
   text-align: justify;
 }
-.bouton{
-float: left;
-margin: auto;
-padding-top: 10px;
-width: 5%;
-height: 15px;
-}
+.btn-lg
+{
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  margin: 20px;
+  padding-top: 10px;
+  background-color: #E8680D;
+  }
 h1
 {
   text-align: center;
@@ -28,4 +30,9 @@ h1
 i
 {
   color: #DA400A;
+}
+#lien
+{
+  text-decoration: underline;
+  color : #E8680D;
 }
