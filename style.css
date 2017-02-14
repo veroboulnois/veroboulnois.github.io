@@ -3,8 +3,7 @@ header {
   background : url("https://www.avastmobileenterprise.com/hubfs/Remotuin-2016/Image/Form-Bg.png?t=1480609795260img");
   background-attachment: fixed;
   background-repeat: no-repeat;
-  height: 410px;
-}
+  }
 
 [class*="col-"], footer {
   border: 6px;
@@ -17,11 +16,13 @@ header {
 }
 i
 {
-  color: #970000;
+  color: #9C1536;
 }
 #contenuCompetences div
 {
   text-align: left;
+}
+.couleur{
   background-color: #6AF6AF;
 }
 #contenuFormation div
@@ -58,4 +59,16 @@ a
 {
   color: black;
   text-decoration:none
+}
+h3
+{
+  color: green;
+  text-align: center;
+}
+.title{
+  display: flex;
+  justify-content: center;
+}
+.picto{
+  color : black;
 }
