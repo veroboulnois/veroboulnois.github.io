@@ -1,67 +1,71 @@
-header {
+header{
   padding-top: 10px;
   background : url("https://www.avastmobileenterprise.com/hubfs/Remotuin-2016/Image/Form-Bg.png?t=1480609795260img");
   background-attachment: fixed;
   background-repeat: no-repeat;
+  font-family: times;
+  font-size: 20px;
 }
 
-[class*="col-"], footer {
+[class*="col-"]{
   border: 6px;
   line-height: 40px;
   text-align: center;
 }
-.logoreseau
-{
+.logoreseau{
   color: blue;
 }
-i
-{
-  color: #9C1536;
+i{
+  color: #2B3F00;
 }
-#contenuCompetences div
-{
+#contenuCompetences div{
   text-align: center;
+  font-family: times;
+  font-size: 20px;
 }
 .couleur{
-  background-color: #6AF6AF;
+  background-color: #9EC643;
 }
-#contenuFormation div
-{
+#contenuFormation div{
   text-align: left;
-  background-color: #27BA5A;
+  background-color: #7FB306;
+  font-family: times;
+  font-size: 20px;
 }
-h2
-{
+h2{
   color: black;
   text-align: center;
+  font-style: italic;
 }
-#contenuExperience div
-{
+#contenuExperience div{
   text-align: left;
-  background-color: #B2D97E;
+  background-color: #5E8801;
+  font-family: times;
+  font-size: 20px;
 }
-#centresInterets div
-{
-  background-color: #86FE35;
+#centresInterets div{
+  background-color: #5A8006;
+  font-family: times;
+  font-size: 20px;
 }
-#contenuSavoirEtre div
-{
-  background-color: #B2D97E;
+#contenuSavoirEtre div{
+  background-color: #8ABA19;
+  font-family: times;
+  font-size: 20px;
 }
 nav{
-  background-color: grey;
+  background-color: #7AAE5B;
+  font-family: verdana;
+  font-style: italic;
 }
-h4
-{
+h4{
   text-decoration: none;
 }
-a
-{
+a{
   color: black;
   text-decoration:none
 }
-h3
-{
+h3{
   color: green;
   text-align: center;
 }
