@@ -1,21 +1,18 @@
-body
-{
+body{
   color: black;
   font-family: impact;
   background: url("img/parcours.jpg");
-  background-repeat: no-repeat;
   background-attachment: fixed;
+  background-size: cover;
   height: 100%;
   padding-top: 50px;
 }
-p
-{
+p{
   width: 100%;
   font-weight: bold;
   text-align: justify;
 }
-.btn-lg
-{
+.btn-lg{
   width: 50px;
   height: 50px;
   border-radius: 25px;
@@ -23,12 +20,10 @@ p
   padding-top: 10px;
   background-color: #E8680D;
   }
-h1
-{
+h1{
   text-align: center;
 }
-i
-{
+i{
   color: #DA400A;
 }
 #lien
