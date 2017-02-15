@@ -11,6 +11,7 @@ p{
   width: 100%;
   font-weight: bold;
   text-align: justify;
+  color: #021A00;
 }
 .btn-lg{
   width: 50px;
@@ -18,10 +19,11 @@ p{
   border-radius: 25px;
   margin: 20px;
   padding-top: 10px;
-  background-color: #E8680D;
+  background-color: #8ABA19;
   }
 h1{
   text-align: center;
+  color: green;
 }
 i{
   color: #DA400A;
