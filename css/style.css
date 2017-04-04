@@ -2,34 +2,34 @@
     font-family: 'anagramregular';
     src: url('fonts/Anagram-webfont.eot');
     src: url('fonts/Anagram-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fonts/Anagram-webfont.woff') format('woff'),
-         url('fonts/Anagram-webfont.ttf') format('truetype'),
-         url('fonts/Anagram-webfont.svg#anagramregular') format('svg');
+        url('fonts/Anagram-webfont.woff') format('woff'),
+        url('fonts/Anagram-webfont.ttf') format('truetype'),
+        url('fonts/Anagram-webfont.svg#anagramregular') format('svg');
     font-weight: normal;
     font-style: normal;
 }
 header, body{
-  padding-top: 20px;
-  background : url("https://www.avastmobileenterprise.com/hubfs/Remotuin-2016/Image/Form-Bg.png?t=1480609795260img");
-  background-attachment: fixed;
-  background-repeat: no-repeat;
-  font-size: 20px;
-  color: black;
+    padding-top: 20px;
+    background : url("https://www.avastmobileenterprise.com/hubfs/Remotuin-2016/Image/Form-Bg.png?t=1480609795260img");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    font-size: 20px;
+    color: black;
 }
 .navbar{
-  position:relative;
-  min-height: 50px;
-  margin-bottom: 20px;
-  border: 1px solid transparent;
+    position:relative;
+    min-height: 50px;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
 }
 .logoreseau, h2{
-  color:#2CE1D6;
-  margin: 5px;
+    color:#2CE1D6;
+    margin: 5px;
 }
 .navbar-inverse .navbar-nav > li > a:hover,
 .navbar-inverse .navbar-nav > li > a:focus {
-  color: #2CE1D6;
+    color: #2CE1D6;
 }
 h1, h2{
-  font-family: 'anagramregular';
+    font-family: 'anagramregular';
 }
