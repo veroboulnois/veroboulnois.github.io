@@ -19,6 +19,13 @@ body{
 h2, h3{
     font-family: 'anagramregular';
 }
-a, .fa{
+a, .fa, span{
     color:#fc4c55;
+}
+#competences, #contenuExperience, #contenuProjet, #contenuCommercial, #formation{
+    padding: 25px;
+    padding-top: 5px;
+}
+#centresInteret{
+    padding: 15px;
 }
