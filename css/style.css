@@ -22,7 +22,7 @@ header, body{
     margin-bottom: 20px;
     border: 1px solid transparent;
 }
-.logoreseau, h2{
+.logoreseau, h2, a{
     color:#2CE1D6;
     margin: 5px;
 }
