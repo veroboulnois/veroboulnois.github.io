@@ -10,7 +10,7 @@
 }
 header, body{
     padding-top: 20px;
-    background : url("https://www.avastmobileenterprise.com/hubfs/Remotuin-2016/Image/Form-Bg.png?t=1480609795260img");
+    background-color: #38BAB2;
     background-attachment: fixed;
     background-repeat: no-repeat;
     font-size: 20px;
@@ -23,7 +23,7 @@ header, body{
     border: 1px solid transparent;
 }
 .logoreseau, h2, a{
-    color:#2CE1D6;
+    color:white;
     margin: 5px;
 }
 .navbar-inverse .navbar-nav > li > a:hover,
